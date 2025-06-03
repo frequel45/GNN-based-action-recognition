@@ -1,0 +1,8 @@
+{
+  "name": "analyse-video-data",
+  "version": "1.0.0",
+  "description": "Video data analysis using ST-GCN",
+  "scripts": {
+    "train": "python train1.py"
+  }
+}
