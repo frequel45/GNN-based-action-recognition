@@ -11,7 +11,7 @@
   "dependencies": {
     "@tensorflow/tfjs": "^4.15.0",
     "@tensorflow/tfjs-node": "^4.15.0",
-    "ml-confusion-matrix": "3.0.0",
+    "ml-confusion-matrix": "*",
     "ml-matrix": "^6.11.0",
     "plotly.js-dist": "^2.27.1"
   },
